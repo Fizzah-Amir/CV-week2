@@ -34,7 +34,3 @@ annotated video is saved as `output.mp4`.
        python detect_people.py my_video.mp4
 
 4. The result is saved as `output.mp4`.
-
-## Files
-- `detect_people.py` - detection script
-- `README.md` - project documentation
